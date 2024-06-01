@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Banking System
 
 This is a simple banking system implemented in C++ that supports functionalities such as account statements (read and write in a local JSON file), deposit/withdrawal, and showing the balance. The system ensures transactions are stored and retrieved in a persistent manner.
