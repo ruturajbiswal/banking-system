@@ -1,0 +1,13 @@
+{
+    "accountNumber": "1234567890",
+    "balance": 279084.0,
+    "transactions": [
+        "Deposit: INR50000.00 | Balance: INR50000.00",
+        "Deposit: INR60000.00 | Balance: INR110000.00",
+        "Deposit: INR69200.00 | Balance: INR179200.00",
+        "Deposit: INR95884.00 | Balance: INR275084.00",
+        "Withdraw: INR50000.00 | Balance: INR225084.00",
+        "Deposit: INR60000.00 | Balance: INR285084.00",
+        "Withdraw: INR6000.00 | Balance: INR279084.00"
+    ]
+}
